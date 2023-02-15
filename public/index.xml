@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>King Warrior Magician Lover</title>
+    <link>https://addictedshadow.github.io/blog/</link>
+    <description>Recent content on King Warrior Magician Lover</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Feb 2023 21:54:09 -0800</lastBuildDate><atom:link href="https://addictedshadow.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://addictedshadow.github.io/blog/posts/first-post/</link>
+      <pubDate>Tue, 14 Feb 2023 21:54:09 -0800</pubDate>
+      
+      <guid>https://addictedshadow.github.io/blog/posts/first-post/</guid>
+      <description>This is my first post! Hello world!</description>
+    </item>
+    
+  </channel>
+</rss>
